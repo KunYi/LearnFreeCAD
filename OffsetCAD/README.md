@@ -1,5 +1,7 @@
 # OffsetCAD Tutorials
 
+This folder collection contains my exclusive files following OffsetCAD's YouTube videos, for making files and studying how to use FreeCAD.
+
 ## RuggedBox
 
   [Youtube link](https://youtu.be/Q4zB2eqgLHo)
