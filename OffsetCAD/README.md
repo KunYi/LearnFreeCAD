@@ -10,3 +10,14 @@
 
   - [Parts model](RuggedBox/Beginner.FCStd) - create all parts model
   - [Assembly parts](RuggedBox/AssemblyBox.FCStd) - final assembly
+
+## Protection Mesh Frame
+
+  [Youtube link](https://youtu.be/XHLgFfNG1vM)
+
+  ![Youtube preview](<pictures/ProtectionMeshFrame.png>)
+
+
+  The folder [**ProtectionMeshFrame**](ProtectionMeshFrame) contains:
+
+  - [ProtectionMeshFrame](ProtectionMeshFrame/ProtectionMeshFrame.FCStd)
