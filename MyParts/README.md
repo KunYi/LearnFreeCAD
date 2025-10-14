@@ -25,6 +25,7 @@ This part is source from Solidworks blogs - [Solidworks 26 years of model maina]
 The folder [**Mania2001**](Mania2001) contains:
 
 - [FreeCAD model](Mania2001/Mania2001.FCStd)
+- [FreeCAD new model](Mania2001/Mania2001-NEW.FCStd) - correct version
 - [Mania 2001 Phase 1](Mania2001/Model-Mania-2001-Phase-1.jpg)
 - [Mania 2001 Phase 2](Mania2001/Model-Mania-2001-Phase-2.jpg)
 
