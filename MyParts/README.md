@@ -14,7 +14,7 @@ Using the sketch image, I reconstructed the 3D model.
 
 ## Model Mania 2001
 
-This part is source from Solidworks blogs - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 
@@ -25,7 +25,8 @@ This part is source from Solidworks blogs - [Solidworks 26 years of model maina]
 The folder [**Mania2001**](Mania2001) contains:
 
 - [FreeCAD model](Mania2001/Mania2001.FCStd)
-- [FreeCAD new model](Mania2001/Mania2001-NEW.FCStd) - correct version
+- [FreeCAD new model](Mania2001/Mania2001-NEW.FCStd) - corrected version
+- [FreeCAD Phase 2 model](Mania2001/Mania2001-S2.FCStd) - base on the corrected version
 - [Mania 2001 Phase 1](Mania2001/Model-Mania-2001-Phase-1.jpg)
 - [Mania 2001 Phase 2](Mania2001/Model-Mania-2001-Phase-2.jpg)
 
