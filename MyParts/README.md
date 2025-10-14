@@ -11,3 +11,20 @@ This part is sourced from a Taobao listing, which provides only a sketch.
 Using the sketch image, I reconstructed the 3D model.
 
 [Model](DIN35_RAILS_Adapter/DIN35_Adapter.FCStd)
+
+## Model Mania 2001
+
+This part is source from Solidworks blogs - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/vbI9UImoXME)
+
+![Youtube Preview](pictures/ModelMania2001_YoutubePreview.png)
+
+The folder [**Mania2001**](Mania2001) contains:
+
+- [FreeCAD model](Mania2001/Mania2001.FCStd)
+- [Mania 2001 Phase 1](Mania2001/Model-Mania-2001-Phase-1.jpg)
+- [Mania 2001 Phase 2](Mania2001/Model-Mania-2001-Phase-2.jpg)
+
