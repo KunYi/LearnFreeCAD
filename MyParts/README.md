@@ -12,10 +12,25 @@ Using the sketch image, I reconstructed the 3D model.
 
 [Model](DIN35_RAILS_Adapter/DIN35_Adapter.FCStd)
 
+## Model Mania 2000
+
+This section is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/JUZwYKomkXU)
+
+![Youtube Preview](pictures/ModelMania2000_YoutubePreview.png)
+
+and I also watched [FreeCAD Newbie's](https://youtu.be/PEqGOdvllFc) YouTube video to help me recreate the model.
+
+The folder [**Mania2000**](Mania2001) contains:
+
+- [FreeCAD model](Mania2000/Mania2000.FCStd)
+- [Mania 2000 Phase 1](Mania2000/Model-Mania-2000-Stage-1.png)
+- [Mania 2000 Phase 2](Mania2000/Model-Mania-2000-Stage-2.png)
+
 ## Model Mania 2001
 
 This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
-
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/vbI9UImoXME)
