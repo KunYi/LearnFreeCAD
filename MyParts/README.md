@@ -25,6 +25,7 @@ and I also watched [FreeCAD Newbie's](https://youtu.be/PEqGOdvllFc) YouTube vide
 The folder [**Mania2000**](Mania2001) contains:
 
 - [FreeCAD model](Mania2000/Mania2000.FCStd)
+- [FreeCAD Phase 2 model](Mania2000/Mania2000-S2.FCStd) - Phase 2 without fillet, because currently, FreeCAD 1.0.2 can't support it.
 - [Mania 2000 Phase 1](Mania2000/Model-Mania-2000-Stage-1.png)
 - [Mania 2000 Phase 2](Mania2000/Model-Mania-2000-Stage-2.png)
 
