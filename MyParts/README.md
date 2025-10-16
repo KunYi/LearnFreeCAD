@@ -59,7 +59,22 @@ and I also watched [FreeCAD Newbie's](https://youtu.be/RkRgAb87RGU) and [Katt Ku
 
 The folder [**Mania2002**](Mania2002) contains:
 
-- [FreeCAD model](Mania2001/Mania2002.FCStd)
+- [FreeCAD model](Mania2002/Mania2002.FCStd)
 - [FreeCAD Phase 2 model - 1](Mania2002/Mania2002-S2-1.FCStd)
 - [Mania 2002 Phase 1](Mania2002/Model-Mania-2002-Phase-1.jpg)
 - [Mania 2002 Phase 2](Mania2002/Model-Mania-2002-Phase-2.jpg)
+
+## Model Mania 2003
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/ynUMiKGIJ_4)
+
+![Youtube Preview](pictures/ModelMania2003_YoutubePreview.png)
+
+The folder [**Mania2003**](Mania2003) contains:
+
+- [FreeCAD model](Mania2003/Mania2003.FCStd)
+- [Mania 2003 Phase 1](Mania2003/Model-Mania-2003-Phase-1.jpg)
+- [Mania 2003 Phase 2](Mania2003/Model-Mania-2003-Phase-2.jpg)
