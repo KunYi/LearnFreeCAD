@@ -60,5 +60,6 @@ and I also watched [FreeCAD Newbie's](https://youtu.be/RkRgAb87RGU) and [Katt Ku
 The folder [**Mania2002**](Mania2002) contains:
 
 - [FreeCAD model](Mania2001/Mania2002.FCStd)
+- [FreeCAD Phase 2 model - 1](Mania2002/Mania2002-S2-1.FCStd)
 - [Mania 2002 Phase 1](Mania2002/Model-Mania-2002-Phase-1.jpg)
 - [Mania 2002 Phase 2](Mania2002/Model-Mania-2002-Phase-2.jpg)
