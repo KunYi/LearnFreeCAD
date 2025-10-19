@@ -108,3 +108,21 @@ The folder [**Mania2005**](Mania2005) contains:
 - [FreeCAD model](Mania2005/Mania2005.FCStd)
 - [Mania 2005 Phase 1](Mania2005/Model-Mania-2005-Phase-1.jpg)
 - [Mania 2005 Phase 2](Mania2005/Model-Mania-2005-Phase-2.jpg)
+
+## Model Mania 2006
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/xJGzpIb4jBM)
+
+![Youtube Preview](pictures/ModelMania2006_YoutubePreview.png)
+
+and I also watched [FreeCAD Newbie's](https://youtu.be/uK--IU85sOY) YouTube video to help me recreate the correct model.
+
+The folder [**Mania2006**](Mania2006) contains:
+
+- [FreeCAD model - first try](Mania2006/Mania2006.FCStd)
+- [FreeCAD model - corrected ](Mania2006/Mania2006-New.FCStd) - reference FreeCAD Newbie's youtube video to re-construct correct version
+- [Mania 2006 Phase 1](Mania2006/Model-Mania-2006-Phase-12.jpg)
+- [Mania 2006 Phase 2](Mania2006/Model-Mania-2006-Phase-22.jpg)
