@@ -124,6 +124,6 @@ The folder [**Mania2006**](Mania2006) contains:
 
 - [FreeCAD model - first try](Mania2006/Mania2006.FCStd)
 - [FreeCAD model - corrected ](Mania2006/Mania2006-New.FCStd) - reference FreeCAD Newbie's youtube video to re-construct correct version
-- [FreeCAD model - Phase 2 with VarSet ](Mania2006/Mania2006-S2.FCStd) - implement a variable 'Slope' for change Phase 1 & Phase 2, still constructing
+- [FreeCAD model - Phase 2 with VarSet ](Mania2006/Mania2006-S2.FCStd) - implement a variable 'Slope' for change Phase 1 & Phase 2, some steps need re-work when change variable
 - [Mania 2006 Phase 1](Mania2006/Model-Mania-2006-Phase-12.jpg)
 - [Mania 2006 Phase 2](Mania2006/Model-Mania-2006-Phase-22.jpg)
