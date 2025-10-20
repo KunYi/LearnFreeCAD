@@ -127,3 +127,18 @@ The folder [**Mania2006**](Mania2006) contains:
 - [FreeCAD model - Phase 2 with VarSet ](Mania2006/Mania2006-S2.FCStd) - implement a variable 'Slope' for change Phase 1 & Phase 2, some steps need re-work when change variable
 - [Mania 2006 Phase 1](Mania2006/Model-Mania-2006-Phase-12.jpg)
 - [Mania 2006 Phase 2](Mania2006/Model-Mania-2006-Phase-22.jpg)
+
+## Model Mania 2007
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/DGHHejPmjIs)
+
+![Youtube Preview](pictures/ModelMania2007_YoutubePreview.png)
+
+The folder [**Mania2007**](Mania2007) contains:
+
+- [FreeCAD model](Mania2007/Mania2007.FCStd)
+- [Mania 2007 Phase 1](Mania2007/Model-Mania-2007-Phase-1.jpg)
+- [Mania 2007 Phase 2](Mania2007/Model-Mania-2007-Phase-2.jpg)
