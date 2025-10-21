@@ -143,6 +143,19 @@ The folder [**Mania2007**](Mania2007) contains:
 - [Mania 2007 Phase 1](Mania2007/Model-Mania-2007-Phase-1.jpg)
 - [Mania 2007 Phase 2](Mania2007/Model-Mania-2007-Phase-2.jpg)
 
+## Model Mania 2024
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/kMMrqlKi_zk)
+
+![Youtube Preview](pictures/ModelMania2024_YoutubePreview.png)
+
+The folder [**Mania2024**](Mania2024) contains:
+
+- [FreeCAD model - Phase 1](Mania2024/Mania2024.FCStd)
+- [Mania 2024 Phase 1 & 2 PDF](<Mania2024/Model-Mania®-2024.pdf>)
 
 ## Model Mania 2025
 
@@ -155,7 +168,7 @@ This part is sourced from the SolidWorks blog - [Solidworks 26 years of model ma
 
 The folder [**Mania2025**](Mania2025) contains:
 
-- [FreeCAD model - Phase 1](Mania2025/Mania2025/Mania2025.FCStd)
+- [FreeCAD model - Phase 1](Mania2025/Mania2025.FCStd)
 - [FreeCAD model - Phase 2](Mania2025/Mania2025-S2.FCStd), not complete, due to fillet feature not work on all edge
 - [Mania 2025 Phase 1](Mania2025/MM25-P1-1.pdf)
 - [Mania 2025 Phase 2](Mania2025/MM25-P2.pdf)
