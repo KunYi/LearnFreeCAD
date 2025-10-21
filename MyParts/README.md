@@ -155,6 +155,7 @@ This part is sourced from the SolidWorks blog - [Solidworks 26 years of model ma
 
 The folder [**Mania2025**](Mania2025) contains:
 
+- [FreeCAD model - Phase 1](Mania2025/Mania2025/Mania2025.FCStd)
 - [FreeCAD model - Phase 2](Mania2025/Mania2025-S2.FCStd), not complete, due to fillet feature not work on all edge
 - [Mania 2025 Phase 1](Mania2025/MM25-P1-1.pdf)
 - [Mania 2025 Phase 2](Mania2025/MM25-P2.pdf)
