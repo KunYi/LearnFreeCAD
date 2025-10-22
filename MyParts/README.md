@@ -14,7 +14,7 @@ Using the sketch image, I reconstructed the 3D model.
 
 ## Model Mania 2000
 
-This section is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This section is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/JUZwYKomkXU)
 
@@ -31,7 +31,7 @@ The folder [**Mania2000**](Mania2001) contains:
 
 ## Model Mania 2001
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/vbI9UImoXME)
@@ -48,7 +48,7 @@ The folder [**Mania2001**](Mania2001) contains:
 
 ## Model Mania 2002
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/p4aZb8AkZT8)
@@ -66,7 +66,7 @@ The folder [**Mania2002**](Mania2002) contains:
 
 ## Model Mania 2003
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/ynUMiKGIJ_4)
@@ -81,7 +81,7 @@ The folder [**Mania2003**](Mania2003) contains:
 
 ## Model Mania 2004
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/gS_SIhvUdnw)
@@ -96,7 +96,7 @@ The folder [**Mania2004**](Mania2004) contains:
 
 ## Model Mania 2005
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/OKgWcBTxD5I)
@@ -111,7 +111,7 @@ The folder [**Mania2005**](Mania2005) contains:
 
 ## Model Mania 2006
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/xJGzpIb4jBM)
@@ -130,7 +130,7 @@ The folder [**Mania2006**](Mania2006) contains:
 
 ## Model Mania 2007
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/DGHHejPmjIs)
@@ -143,9 +143,23 @@ The folder [**Mania2007**](Mania2007) contains:
 - [Mania 2007 Phase 1](Mania2007/Model-Mania-2007-Phase-1.jpg)
 - [Mania 2007 Phase 2](Mania2007/Model-Mania-2007-Phase-2.jpg)
 
+## Model Mania 2022
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/2nJeZwyj4b0)
+
+![Youtube Preview](pictures/ModelMania2022_YoutubePreview.png)
+
+The folder [**Mania2022**](Mania2022) contains:
+
+- [FreeCAD model](Mania2022/Mania2022.FCStd)
+- [Mania 2022](<Mania2022/Model-Mania®-2022-FINAL.jpg>)
+
 ## Model Mania 2024
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/kMMrqlKi_zk)
@@ -159,7 +173,7 @@ The folder [**Mania2024**](Mania2024) contains:
 
 ## Model Mania 2025
 
-This part is sourced from the SolidWorks blog - [Solidworks 26 years of model maina](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
 
 
 [Solidworks Solutions - Youtube  video](https://youtu.be/kMMrqlKi_zk)
