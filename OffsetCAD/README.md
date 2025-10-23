@@ -23,3 +23,13 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   The folder [**ProtectionMeshFrame**](ProtectionMeshFrame) contains:
 
   - [ProtectionMeshFrame](ProtectionMeshFrame/ProtectionMeshFrame.FCStd)
+
+## Pitcher
+
+  [Youtube link](https://youtu.be/eHu2oZY9HDg)
+
+  ![Youtube preview](Pitcher/Drawing.png)
+
+  The folder [**Pitcher**](Pitcher) contains:
+
+  - [Pitcher Model](<Pitcher/Exercise 111 - Pitcher.FCStd>) - Modify version
