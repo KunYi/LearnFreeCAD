@@ -55,3 +55,5 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   - [Incorrect Model by myself](Bucket/Bucket.FCStd)
 
   - [use video method to create mesh](Bucket/Bucket_NEW.FCStd) - but some parameters not same
+
+  - [Diff. Mesh](Bucket/Bucket_A1.FCStd) - another parameters version
