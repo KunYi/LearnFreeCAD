@@ -43,3 +43,15 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   The folder [**SplitClamp**](SplitClamp) contains:
 
   - [Split Model](<SplitClamp/SplitClamp.FCStd>) - Modify version
+
+## Bucket
+
+  [Youtube link](https://youtu.be/HUJ2NoHGsNU)
+
+  ![Youtube preview](Bucket/Drawing.png)
+
+  The folder [**Bucket**](Bucket) contains:
+
+  - [Incorrect Model by myself](Bucket/Bucket.FCStd)
+
+  - [use video method to create mesh](Bucket/Bucket_NEW.FCStd) - but some parameters not same
