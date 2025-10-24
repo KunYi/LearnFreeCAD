@@ -33,3 +33,13 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   The folder [**Pitcher**](Pitcher) contains:
 
   - [Pitcher Model](<Pitcher/Exercise 111 - Pitcher.FCStd>) - Modify version
+
+## SplitClamp
+
+  [Youtube link](https://youtu.be/BXhYOSUCVq0)
+
+  ![Youtube preview](<pictures/Exercise 11 - SplitClamp.png>)
+
+  The folder [**SplitClamp**](SplitClamp) contains:
+
+  - [Split Model](<SplitClamp/SplitClamp.FCStd>) - Modify version
