@@ -67,3 +67,13 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   The folder [**Exercise98**](Exercise98) contains:
 
   - [FreeCAD Model](Exercise98/Exercise98.FCStd)
+
+## KnurledCabinet
+
+  [Youtube link](https://youtu.be/hHVIgn27bu4)
+
+  ![Youtube preview](pictures/KnurledCabinet_Preview.png)
+
+  the folder [**KnurledCabinet**](KnurledCabinet) contains:
+
+  - [FreeCAD Model](KnurledCabinet/KnurledCabinet.FCStd)
