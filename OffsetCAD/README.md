@@ -57,3 +57,13 @@ This folder collection contains my exclusive files following OffsetCAD's YouTube
   - [use video method to create mesh](Bucket/Bucket_NEW.FCStd) - but some parameters not same
 
   - [Diff. Mesh](Bucket/Bucket_A1.FCStd) - another parameters version
+
+## Exercise 98
+
+  [Youtube link](https://youtu.be/LOmy0zODT7I)
+
+  ![Youtube preview](Exercise98/Drawing.png)
+
+  The folder [**Exercise98**](Exercise98) contains:
+
+  - [FreeCAD Model](Exercise98/Exercise98.FCStd)
