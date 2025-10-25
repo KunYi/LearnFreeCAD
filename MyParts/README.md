@@ -16,7 +16,9 @@ Using the sketch image, I reconstructed the 3D model.
 
 ![Preview](pictures/Preview_Knurling.png)
 
-[Model](Knurling/KnurlingModel.FCStd)
+[Model](Knurling/KnurlingModel.FCStd) - create by myself, and to create drawing pdf
+
+[Model - Drawing](Knurling/KnurlingModel-Drawing.FCStd) - use drawing pdf to reconstructed the model
 
 ## Model Mania 2000
 
