@@ -12,6 +12,12 @@ Using the sketch image, I reconstructed the 3D model.
 
 [Model](DIN35_RAILS_Adapter/DIN35_Adapter.FCStd)
 
+## Knurling
+
+![Preview](pictures/Preview_Knurling.png)
+
+[Model](Knurling/KnurlingModel.FCStd)
+
 ## Model Mania 2000
 
 This section is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
