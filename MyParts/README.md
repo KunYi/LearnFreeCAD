@@ -151,6 +151,21 @@ The folder [**Mania2007**](Mania2007) contains:
 - [Mania 2007 Phase 1](Mania2007/Model-Mania-2007-Phase-1.jpg)
 - [Mania 2007 Phase 2](Mania2007/Model-Mania-2007-Phase-2.jpg)
 
+## Model Mania 2008
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/DGHHejPmjIs)
+
+![Youtube Preview](pictures/ModelMania2008_YoutubePreview.png)
+
+The folder [**Mania2008**](Mania2008) contains:
+
+- [FreeCAD model](Mania2008/Mania2008.FCStd)
+- [Mania 2007 Phase 1](Mania2008/Model-Mania-2008-Phase-1.jpg)
+- [Mania 2007 Phase 2](Mania2008/Model-Mania-2008-Phase-1.jpg)
+
 ## Model Mania 2021
 
 This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
