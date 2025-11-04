@@ -181,6 +181,23 @@ The folder [**Mania2010**](Mania2010) contains:
 - [Mania 2010 Phase 1](Mania2010/Model-Mania-2010-Phase-1.jpg)
 - [Mania 2010 Phase 2](Mania2010/Model-Mania-2010-Phase-2.jpg)
 
+## Model Mania 2015
+
+This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
+
+
+[Solidworks Solutions - Youtube  video](https://youtu.be/aaG6NbsAni8)
+
+![Youtube Preview](pictures/ModelMania2015_YoutubePreview.png)
+
+The folder [**Mania2015**](Mania2015) contains:
+
+- [FreeCAD Phase 1 model](Mania2015/Mania2015.FCStd)
+- [FreeCAD Phase 1 model - another method](Mania2015/Mania2015-new.FCStd)
+- [FreeCAD Phase 2 model](Mania2015/Mania2015-S2.FCStd)
+- [Mania 2015 Phase 1](Mania2015/Model-Mania-2015-Phase-1.jpg)
+- [Mania 2015 Phase 2](Mania2015/Model-Mania-2015-Phase-2.jpg)
+
 ## Model Mania 2021
 
 This part is sourced from the SolidWorks blog - [Solidworks 26 years of model mania](https://blogs.solidworks.com/tech/2025/02/26-years-of-model-mania.html)
